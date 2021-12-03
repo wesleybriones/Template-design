@@ -1,0 +1,67 @@
+{
+  "productos": {
+    "led": {
+      "1": {
+        "nombre": "led antique", 
+        "precio": 99.99,
+        "imagen": "https://sylvania.com.ec/wp-content/uploads/2019/12/Antique-producto.jpg",
+        "calificacion":5,
+        "categoria":"led"
+      },
+      "2":{
+        "nombre": "led aura", 
+        "precio": 50.10,
+        "imagen": "https://sylvania.com.ec/wp-content/uploads/2020/05/aura-foto-e1589746903118.jpg",
+        "calificacion":5,
+        "categoria":"led"        
+      },
+      "3":{
+        "nombre": "led toledo", 
+        "precio": 15.99,
+        "imagen": "https://sylvania.com.ec/wp-content/uploads/2019/11/ToLEDo-Producto-05.jpg",
+        "calificacion":5,
+        "categoria":"led"        
+      },
+      "4":{
+        "nombre": "led estaca", 
+        "precio": 11.99,
+        "imagen": "https://sylvania.com.ec/wp-content/uploads/2020/02/ESTACA-OK.png",
+        "calificacion":5,
+        "categoria":"led"        
+      },
+      "5":{
+        "nombre": "LED JUPITER G2", 
+        "precio": 22.99,
+        "imagen": "https://sylvania.com.ec/wp-content/uploads/2019/12/jupiter-producto.jpg",
+        "calificacion":5,
+        "categoria":"led"        
+      },
+      "6":{
+        "nombre": "LED REFLECTOR SYLVEO SPORTS", 
+        "precio": 45.99,
+        "imagen": "https://sylvania-colombia.com/wp-content/uploads/2020/06/Sports-producto.jpg",
+        "calificacion":5,
+        "categoria":"led"        
+      }            
+      
+    },
+    "reflector": {
+      "1": {
+        "nombre": "led jeta 500w",
+        "precio": 120.50,
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsylvania.com.ec%2Fproduct%2Freflector-jeta-led-500w%2F&psig=AOvVaw2FoxaMmCy22We2f9JE5EC0&ust=1638506825852000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDj-tynxPQCFQAAAAAdAAAAABAD",
+        "calificacion":4,
+        "categoria":"reflector"
+      }
+    },
+    "lamparas": {
+      "1": {
+        "nombre": "batten led", 
+        "precio": 130.10,
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsylvania.com.ec%2Fproduct%2Fbatten-led%2F&psig=AOvVaw0eVHkfH0rhqN4amwdOO3t5&ust=1638506844621000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjnj-anxPQCFQAAAAAdAAAAABAD",
+        "calificacion": 4,
+        "categoria":"lamparas"
+      }
+    }
+  }
+}
